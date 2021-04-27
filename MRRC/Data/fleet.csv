@@ -1,0 +1,10 @@
+Registration,Grade,Make,Model,Year,numSeats,Transmission,Fuel,GPS,SunRoof,dailyRate,Colour
+852VOJ,Commercial,test,i,4543,9,Automatic,Petrol,True,False,37.1,joker
+602VVZ,Economy,Pontiac,Fiero 2M4,1987,2,Manual,Petrol,False,False,37.9,Red
+993QAN,Commercial,Mitsubishi,3000 GT VR-4,1991,2,Manual,Petrol,False,False,37.8,Red
+471XBI,Luxury,Chevrolet,Tahoe,1996,8,Automatic,Petrol,True,True,38,Black
+682GWJ,Commercial,Audi,A4,1997,5,Manual,Petrol,False,False,46.1,Blue
+677UIA,Economy,Audi,S4,2004,5,Manual,Petrol,False,False,43.3,Blue
+519YUY,Family,Dodge,Durango,2006,7,Automatic,Diesel,True,True,46.8,Blue
+123ERT,Luxury,test,test,1990,4,Manual,Petrol,True,False,50.2,red
+132TGH,Commercial,test,test,1234,4,Manual,Diesel,False,False,130,Black

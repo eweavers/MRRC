@@ -1,0 +1,7 @@
+C:\Users\ethan\source\repos\MRRC\MRRC\bin\Debug\MRRC.exe.config
+C:\Users\ethan\source\repos\MRRC\MRRC\bin\Debug\MRRC.exe
+C:\Users\ethan\source\repos\MRRC\MRRC\bin\Debug\MRRC.pdb
+C:\Users\ethan\source\repos\MRRC\MRRC\obj\Debug\MRRC.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\MRRC\MRRC\obj\Debug\MRRC.exe
+C:\Users\ethan\source\repos\MRRC\MRRC\obj\Debug\MRRC.pdb
+C:\Users\ethan\source\repos\MRRC\MRRC\obj\Debug\MRRC.csproj.CoreCompileInputs.cache
